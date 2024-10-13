@@ -1,5 +1,5 @@
 # Mappifyy
- Welcome to Mappifyy. Pin your location, add reviews and view the inaights about a place by other people.
+ Welcome to Mappifyy. Pin your location, add reviews and view the insights about a place by other people.
 
 # Key Features
 1) Implemented a login functionality for every user, ensuring data privacy and security.
