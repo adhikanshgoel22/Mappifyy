@@ -13,7 +13,7 @@ npm i
 ```
 For frontend
 ```
-cd frontend
+cd frontend1
 npm start
 ```
 For backend
